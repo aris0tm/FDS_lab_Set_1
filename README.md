@@ -11,7 +11,7 @@
 **Total time spent** :  4:00 hrs
 
 ----------------------------------------------------------------
-<font colour= "red" size="5"> Disclaimer</font>
+<font colour= "red" size="5"> **Disclaimer:**</font>
 
 The code provided in this repository is for educational and purposes only. 
 
